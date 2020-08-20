@@ -1,0 +1,16 @@
+{
+"companyName": "Samcan Studios",
+"productName": "Endless Dream 2",
+"productVersion": "0.1",
+"dataUrl": "ED2 Kong.data.unityweb",
+"wasmCodeUrl": "ED2 Kong.wasm.code.unityweb",
+"wasmFrameworkUrl": "ED2 Kong.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
